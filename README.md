@@ -5,7 +5,7 @@ Exploratory data analysis of the Titanic dataset using Python, Pandas, and Seabo
 ## Project Overview
 
 This project explores the Titanic passenger dataset using Python.
-The goal is to analyze survival patterns and identify the factors that influenced survival rates.
+A data analysis project exploring the famous **Titanic dataset** to analyze survival patterns, uncover patterns and insights about passenger survival and identify the factors that influenced survival rates.
 
 ## Tools Used
 
@@ -14,6 +14,16 @@ The goal is to analyze survival patterns and identify the factors that influence
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
+  
+## Overview
+
+This project uses Python and Jupyter Notebook to analyze the Titanic dataset. The analysis covers:
+
+- Survival rates by **gender**
+- Survival rates by **passenger class**
+- Survival rates by **age groups**
+- Passenger fare distribution
+- Professional-quality charts and visualizations
 
 ## Key Questions
 
